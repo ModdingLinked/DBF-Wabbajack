@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ModdingLinked/DBF-Wabbajack/refs/heads/main/Image.png",
+      "image": "https://raw.githubusercontent.com/ModdingLinked/DBF-Wabbajack/main/Image.webp",
       "readme": "https://dragonbornsfate.moddinglinked.com/wabbajack.html",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "ADragonbornsFate",
